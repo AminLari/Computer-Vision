@@ -1,7 +1,11 @@
-<h2>Homework 1: Fibonacci Sequence and Matrix Memory Allocation</h2>
+<h2>Homework 1: Basics of MATLAB and and Image Processing</h2>
 <ul>
-  <li><strong>Fibonacci Sequence with Pointers</strong>: This program demonstrates pointer manipulation by rearranging 10 user-input numbers in a specific sequence. It highlights the power of pointers for iterating over and modifying arrays in C++.</li>
-  <li><strong>Dynamic Matrix Memory Allocation</strong>: A program that dynamically allocates memory for a matrix using pointers, ensuring contiguous memory allocation. This showcases memory management and dynamic data structures, key topics in advanced programming.</li>
+  <li>Write MATLAB code to perform basic image processing tasks.</li>
+<li>Extract and manipulate color channels (RGB) of an image.</li>
+<li>Convert a color image to grayscale and analyze its properties.</li>
+<li>Perform pixel intensity transformations on grayscale images.</li>
+<li>Combine two images by inserting one into a specific region of another.</li>
+<li>Segment an image to separate the foreground from the background using intensity thresholds.</li>
 </ul>
 
 <h2>Homework 2: Recursion and Merge Sort</h2>
