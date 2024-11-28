@@ -1,24 +1,24 @@
-<h2>Homework 1: Basics of MATLAB and and Image Processing</h2>
+<h2>Homework 1: Basics of MATLAB and Image Processing</h2>
 <ul>
   <li>Write MATLAB code to perform basic image processing tasks.</li>
-<li>Extract and manipulate color channels (RGB) of an image.</li>
-<li>Convert a color image to grayscale and analyze its properties.</li>
-<li>Perform pixel intensity transformations on grayscale images.</li>
-<li>Combine two images by inserting one into a specific region of another.</li>
-<li>Segment an image to separate the foreground from the background using intensity thresholds.</li>
+  <li>Extract and manipulate color channels (RGB) of an image.</li>
+  <li>Convert a color image to grayscale and analyze its properties.</li>
+  <li>Perform pixel intensity transformations on grayscale images.</li>
+  <li>Combine two images by inserting one into a specific region of another.</li>
+  <li>Segment an image to separate the foreground from the background using intensity thresholds.</li>
 </ul>
 
-<h2>Homework 2: Recursion and Merge Sort</h2>
+<h2>Homework 2: Arithmetic/Logic, Geometric, and Simple Point Operations.</h2>
 <ul>
-  <li><strong>Palindrome Check with Recursion</strong>: This program emphasizes the importance of recursion by determining whether a string is a palindrome. Recursive functions are a cornerstone of algorithmic design in advanced programming.</li>
-  <li><strong>Merge Sort with Pointers</strong>: A recursive sorting algorithm implemented using pointers, which highlights efficient sorting techniques and memory management in advanced data structures.</li>
-  <li><strong>Recursive Character Processing</strong>: Demonstrates recursive algorithms for processing strings without repeating consecutive characters, showing how recursion simplifies complex problems.</li>
+  <li>Create a MATLAB function to adjust the brightness of an image, allowing for brightening or darkening by a specified percentage.</li>
+  <li>Develop a MATLAB program to correct perspective distortions in images using user-selected points.</li>
+  <li>Implement a MATLAB function to perform intensity stretching, improving contrast by mapping input intensities to a specified output range.</li>
 </ul>
 
-<h2>Homework 3: String Processing and Object-Oriented Design</h2>
+<h2>Homework 3: Histogram Equalization, Spatial Filtering</h2>
 <ul>
-  <li><strong>String Manipulation</strong>: Demonstrates the use of C++ string libraries and algorithms like <code>tolower</code> and <code>replace_if</code>, which are essential for advanced string handling.</li>
-  <li><strong>Class Design for Shapes</strong>: This task introduces class-based design with constructors and methods to model geometric objects such as circles and their intersection. It reinforces object-oriented principles like encapsulation and method overloading.</li>
+  <li>Write a MATLAB function to equalize the histogram of an image without using predefined MATLAB functions, implementing custom PDF computation, transformation, and histogram equalization.</li>
+  <li>Develop a MATLAB function to add shadows to items in a grayscale image by thresholding, blurring, and combining multiple processed layers.</li>
 </ul>
 
 <h2>Homework 4: Advanced Object-Oriented Programming - Airline Reservation System</h2>
